@@ -1,0 +1,5 @@
+amxmlc Athena.mxml
+adl Athena.xml
+
+
+http://help.adobe.com/ja_JP/air/build/WS144092a96ffef7cc4c0afd1212601c9a36f-8000.html
